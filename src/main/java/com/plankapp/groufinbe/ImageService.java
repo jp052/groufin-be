@@ -17,6 +17,10 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
+
+/**
+ * Learning Spring Boot 2.0 Page 51ff
+ */
 @Service
 public class ImageService {
     private static String UPLOAD_ROOT = "upload-dir";
